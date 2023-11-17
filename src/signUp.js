@@ -21,7 +21,7 @@ function SignUp(){
             <button className='btn btn-success button'>Sign Up</button>
             </div>
             <div className='text-light text-start col-sm right ms-5 pt-2 me-5'>
-                <h1 className='text-warning text-center'><i>E-kart</i></h1>
+                <h1 className='text-warning text-center'><i>Recipe Finder</i></h1>
                 <h2><i>
 "Culinary Exploration Awaits: Embark on a Gastronomic Journey with Our Recipe Finder – Sign Up Today for a World of Flavor!"</i></h2>
                 <h3><i>Tailored to your taste preferences, our algorithm delivers handpicked recipes, ensuring a delightful and personalized cooking experience.</i></h3>
